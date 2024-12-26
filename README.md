@@ -1,4 +1,5 @@
-                                                                       Inheritance in Java
+  __Inheritance in Java__
+  
 Inheritance is an important pillar of OOP(Object Oriented Programming). It is the mechanism in java by which one class is allow to inherit the features(fields and methods) of another class. Important terminology:
 
 Super Class: The class whose features are inherited is known as super class(or a base class or a parent class).
