@@ -44,10 +44,4 @@ Inheritance supports the concept of *reusability*, meaning you can create a new 
 
 ---
 
-## Project Structure
 
-- SingleInheritance.java: Example of single inheritance.
-- MultilevelInheritance.java: Example of multilevel inheritance.
-- HierarchicalInheritance.java: Example of hierarchical inheritance.
-- MultipleInheritance.java: Example of multiple inheritance using interfaces.
-- HybridInheritance.java: Example of hybrid inheritance using interfaces.
